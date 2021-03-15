@@ -7,24 +7,24 @@ from helpers.filters import command, other_filters, other_filters2
 @Client.on_message(command("start") & other_filters)
 async def start(_, message: Message):
     await message.reply_text(
-        f"""<b>👋🏻 Hi {message.from_user.first_name}!</b>
+        f"""<b>🚭👯🎻HELLO.!!! {message.from_user.first_name}!</b>
 
-I am SU Music Player, an open-source bot that lets you play music in your Telegram groups.
+THESE IS AN MUSIC PLAYER BOT CAN PLAY'S MUSIC ON YOUR TELEGRAPH GROUP VOICE CHAT. 
 
-Use the buttons below to know more about me.""",
+USE THE BUTTONS BELOW TO KNOW MORE ABOUT ME AND MY SAURCE CODE ALSO GIVEN.""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "⚒ Source code", url="https://t.me/SuMusicPlayer"
+                        "⚡DEVLOPER⚡", url="https://t.me/MR_PURUSHOTTAM_M"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/su_Chats"
+                        "⚡ASK FOR SUPPORT🙃⚡", url="https://t.me/su_Chats"
                     ),
                     InlineKeyboardButton(
-                        "Channel 🔈", url="https://t.me/su_Bots"
+                        "🌏SAURCE CODE🌎", url="https://github.com/PURHSHOTTAM/M-PLAYERH2.3"
                     )
                 ]
             ]
