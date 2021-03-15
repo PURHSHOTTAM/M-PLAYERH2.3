@@ -4,7 +4,7 @@
 
 💌REACHD MY DEVELOPER ON TELEGRAM [](https://t.me/MR_PURUSHOTTAM_M) 
 
-<img src = https://i.pinimg.com/originals/25/d2/54/25d254df236c61306bceb86df5f671f1.gif width = 90 align = "left">
+<img src = https://i.pinimg.com/originals/25/d2/54/25d254df236c61306bceb86df5f671f1.gif width = 80 align = "left">
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
