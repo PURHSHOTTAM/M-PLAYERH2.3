@@ -1,6 +1,14 @@
 # M-PLAYERH2.3
 
-![logo](https://telegra.ph/file/0841cbbb0bb723a8ec78f.png) 
+<p align="center">
+
+   <a href="https://github.com/code-rgb/THE-LIBRARIAN-MANAGER-BOT"><img src="https://telegra.ph/file/b7694f71c072e66f22329.png" alt="/THE-LIBRARIAN-MANAGER-BOT" width=600px></a>
+
+   <br>
+
+ <br>
+
+
 
 💌REACHD MY DEVELOPER ON TELEGRAM [](https://t.me/MR_PURUSHOTTAM_M) 
 
