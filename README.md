@@ -1,15 +1,7 @@
 # M-PLAYERH2.3
-
 <p align="center">
-
    <a href="https://github.com/code-rgb/M-PLAYERH2.3"><img src="https://telegra.ph/file/b0f4984a82fc037fdb76b.png" alt="/M-PLAYERH2.3" width=300px></a>
-
-   <br>
-
- <br>
-
-
-
+<br>
 💌REACHD MY DEVELOPER ON TELEGRAM [](https://t.me/MR_PURUSHOTTAM_M) 
 
 <img src = https://i.pinimg.com/originals/25/d2/54/25d254df236c61306bceb86df5f671f1.gif width = 80 align = "left">
