@@ -1,13 +1,14 @@
 {
     "name": "MusicPlayer",
     "description": "An Open-source PyTgCalls based Pyrogram bot to play music in voice chats",
+    "logo": "https://telegra.ph/file/0841cbbb0bb723a8ec78f.png",
     "keywords": [
       "telegram",
       "voicechat",
       "pytgcalls",
       "productivity"
     ],
-    "repository": "https://github.com/subinps/MusicPlayer-Heroku",
+    "repository": "https://github.com/PURHSHOTTAM/M-PLAYERH2.3",
     "stack": "container",
     "env": {
       "API_ID": {
@@ -19,7 +20,7 @@
         "value": ""
       },
       "SESSION_NAME": {
-        "description": "Get this value from https://repl.it/@subinps/getStringName",
+        "description": "Get this value from https://replit.com/@MrPerfectPM/STARRING-GERATOR-PYROGRAM",
         "value": ""
       },
       "BOT_TOKEN": {
