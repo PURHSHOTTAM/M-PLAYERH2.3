@@ -2,7 +2,7 @@
 
 <p align="center">
 
-   <a href="https://github.com/code-rgb/THE-LIBRARIAN-MANAGER-BOT"><img src="https://telegra.ph/file/b7694f71c072e66f22329.png" alt="/THE-LIBRARIAN-MANAGER-BOT" width=600px></a>
+   <a href="https://github.com/code-rgb/M-PLAYERH2.3"><img src="https://telegra.ph/file/b0f4984a82fc037fdb76b.png" alt="/M-PLAYERH2.3" width=600px></a>
 
    <br>
 
