@@ -2,7 +2,7 @@
 
 <p align="center">
 
-   <a href="https://github.com/code-rgb/M-PLAYERH2.3"><img src="https://telegra.ph/file/b0f4984a82fc037fdb76b.png" alt="/M-PLAYERH2.3" width=600px></a>
+   <a href="https://github.com/code-rgb/M-PLAYERH2.3"><img src="https://telegra.ph/file/b0f4984a82fc037fdb76b.png" alt="/M-PLAYERH2.3" width=300px></a>
 
    <br>
 
